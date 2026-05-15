@@ -1,5 +1,12 @@
 # Changelog
 
-All notable changes to Ansible Navigator will be documented in this file.
+All notable changes to **ansible-navigator** will be documented in this file.
 
-Please see the [release notes](https://github.com/ansible/ansible-navigator/releases)
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [0.1.0] - 2026-05-15
+
+### Added
+
+- A text-based user interface (TUI) for Ansible.
